@@ -1,6 +1,5 @@
 package com.learn.config;
 
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
@@ -10,7 +9,7 @@ import com.learn.main.model.*;
 public class BeanConfig {
 	
    @Bean
-   public Coder coder1 ( @Qualifier("computer2") Computer computer) {
+   public Coder coder1(Computer computer) {
 	   Coder c;
 	   c = new Coder();
 	   c.setId(84);
@@ -24,11 +23,6 @@ public class BeanConfig {
    @Bean
    public Computer computer1() {
 	   return new Computer("AMD");
-   }
-   
-   @Bean
-   public Computer computer2() {
-	   return new Computer("INTEL");
    }
 
 }

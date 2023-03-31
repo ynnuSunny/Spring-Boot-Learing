@@ -483,3 +483,28 @@
 2023-04-01 02:10:55,734 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-04-01 02:10:55,768 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-04-01 02:10:55,774 [Worker-57: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\SpringBootProject-1\src\test\resources
+2023-04-01 02:11:14,123 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-04-01 02:11:33,287 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-01 02:11:33,307 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-01 02:11:33,312 [Worker-2: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\SpringBootProject-1\src\test\resources
+2023-04-01 02:18:06,712 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-01 02:18:06,744 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-01 02:18:06,754 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\SpringBootProject-1\src\test\resources
+2023-04-01 02:28:50,182 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-01 02:28:50,189 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-01 02:28:50,192 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\SpringBootProject-1\src\test\resources
+2023-04-01 02:30:04,362 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-01 02:30:04,370 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-01 02:30:04,373 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\SpringBootProject-1\src\test\resources
+2023-04-01 02:32:10,654 [Worker-26: Launching SpringBootProject-1 - SpringBootProject1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-01 02:32:10,680 [Worker-26: Launching SpringBootProject-1 - SpringBootProject1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-01 02:32:10,686 [Worker-26: Launching SpringBootProject-1 - SpringBootProject1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\SpringBootProject-1\src\test\resources
+2023-04-01 02:32:45,581 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-01 02:32:45,588 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-01 02:32:45,591 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\SpringBootProject-1\src\test\resources
+2023-04-01 02:33:21,934 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-01 02:33:21,945 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-01 02:33:21,948 [Worker-26: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\SpringBootProject-1\src\test\resources
+2023-04-01 02:33:55,465 [Worker-25: Launching SpringBootProject-1 - SpringBootProject1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-01 02:33:55,483 [Worker-25: Launching SpringBootProject-1 - SpringBootProject1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-01 02:33:55,491 [Worker-25: Launching SpringBootProject-1 - SpringBootProject1Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\SpringBootProject-1\src\test\resources
