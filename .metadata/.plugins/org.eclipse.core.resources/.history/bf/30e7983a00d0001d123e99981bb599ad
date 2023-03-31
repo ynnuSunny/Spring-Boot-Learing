@@ -1,0 +1,24 @@
+package com.learn.main;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.context.ApplicationContext;
+
+import com.learn.main.model.Coder;
+
+@SpringBootApplication
+public class SpringBootProject1Application {
+
+	public static void main(String[] args) {
+	  //ApplicationContest ekta interface ar Spring Application ApplicationContest implement kore
+		              // 
+	  ApplicationContext context =	SpringApplication.run(SpringBootProject1Application.class, args);
+		// SprringApllication er run hobe tokhon seta ekta Aplication context er refrace return kore 
+	  
+	  
+		Coder c1 =(Coder) context.getBean("");
+		
+		System.out.print();
+	}
+
+}
