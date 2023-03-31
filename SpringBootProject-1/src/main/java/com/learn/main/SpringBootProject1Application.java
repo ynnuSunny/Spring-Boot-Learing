@@ -7,9 +7,10 @@ import org.springframework.context.annotation.Import;
 
 import com.learn.config.BeanConfig;
 import com.learn.main.model.Coder;
+import com.learn.main.model.User;
 
 @SpringBootApplication
-@Import({BeanConfig.class}) //set bean configuration files
+//@Import({BeanConfig.class}) //set bean configuration files
 public class SpringBootProject1Application {
 
 	public static void main(String[] args) {
@@ -19,10 +20,13 @@ public class SpringBootProject1Application {
 		// SprringApllication er run hobe tokhon seta ekta Aplication context er refrace return kore 
 	  
 	  
-		Coder c1 =(Coder) context.getBean("coder1");
-		
-		System.out.println("Name : "+c1.getName());
-		System.out.println("COmputer "+c1.getComputer().getBrand());
+//		Coder c1 =(Coder) context.getBean("coder1");
+//		
+//		System.out.println("Name : "+c1.getName());
+//		System.out.println("COmputer "+c1.getComputer().getBrand());
+	  
+	    User u = context.getBean(User.class);
+	    u.checkUser();
 	}
 
 }
