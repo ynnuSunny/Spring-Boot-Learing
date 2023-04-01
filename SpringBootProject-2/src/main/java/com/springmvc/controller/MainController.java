@@ -20,12 +20,12 @@ public class MainController {
     }
 	
 	@RequestMapping("addProgrammer")
-    public ModelAndView programmer(@ModelAttribute Programmer programmer) {
+    public String programmer(@ModelAttribute("p") Programmer programmer) {
        // System.out.println(+pId+" "+pName+" "+pLang);
 	    
-		ModelAndView mv = new ModelAndView();
-		mv.setViewName("ProgrammerInfo.html");
 		
-		return mv;
+		return ("ProgrammerInfo.html");
+		
+		
     }
 }
