@@ -2,8 +2,12 @@ package com.springmvc.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.servlet.ModelAndView;
+
+import com.springmvc.model.Programmer;
 
 
 
@@ -16,12 +20,12 @@ public class MainController {
     }
 	
 	@RequestMapping("addProgrammer")
-    public String programmer(@RequestParam int pId,@RequestParam String pName,@RequestParam String pLang,Model model) {
+    public ModelAndView programmer(@ModelAttribute Programmer programmer) {
        // System.out.println(+pId+" "+pName+" "+pLang);
-		model.addAttribute("pId",pId);
-		model.addAttribute("pName",pName);
-		model.addAttribute("pLang",pLang);
+	    
+		ModelAndView mv = new ModelAndView();
+		mv.setViewName("ProgrammerInfo.html");
 		
-		return "ProgrammerInfo.html";
+		return mv;
     }
 }

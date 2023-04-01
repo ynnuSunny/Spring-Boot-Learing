@@ -775,3 +775,12 @@
 2023-04-01 04:10:29,456 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-04-01 04:10:29,464 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
 2023-04-01 04:10:29,488 [Worker-78: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\SpringBootProject-2\src\test\resources
+2023-04-01 04:18:32,657 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-01 04:18:32,657 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-01 04:18:32,660 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\SpringBootProject-2\src\test\resources
+2023-04-01 04:18:40,041 [Worker-74: Launching SpringBootProject-2 - SpringBootProject2Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-01 04:18:40,064 [Worker-74: Launching SpringBootProject-2 - SpringBootProject2Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-04-01 04:18:40,070 [Worker-74: Launching SpringBootProject-2 - SpringBootProject2Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\SpringBootProject-2\src\test\resources
+2023-04-01 04:18:57,554 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-01 04:18:57,555 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-01 04:18:57,559 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\SpringBootProject-2\src\test\resources
