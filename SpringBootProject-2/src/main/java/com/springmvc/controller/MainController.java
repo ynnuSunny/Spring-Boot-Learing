@@ -14,6 +14,12 @@ import com.springmvc.model.Programmer;
 @Controller
 public class MainController {
 	
+	@ModelAttribute
+	public void welcome(Model m) {
+	   m.addAttribute("msg", "Welcome the website");
+	}
+	
+	
 	@RequestMapping("index")
     public String homePage() {
     	return "HomePage.html";
