@@ -24,12 +24,6 @@ public class MainController {
 	@Autowired
 	ProgremmerRepo pr;
 	
-	@ModelAttribute
-	public void welcome(Model m) {
-	   m.addAttribute("msg", "Welcome the website");
-	}
-	
-	
 	@GetMapping("index")
     public String homePage() {
     	return "HomePage.html";
@@ -41,20 +35,32 @@ public class MainController {
 	    
 		pr.save(programmer);
 		
-		return ("ProgrammerInfo.html");
-		
+		return "redirect:/index";
 		
     }
 	
-	@GetMapping("/allProgrammer")
-	public String allProgramer(Model model) {
-		List<Programmer> list = new ArrayList<Programmer>();
-		
-		list.add(new Programmer(80,"Foyez","C++"));
-		list.add(new Programmer(84,"Sunny","Java"));
-		list.add(new Programmer(63,"Xami","C"));
-		model.addAttribute("programmer", list);
-		model.addAttribute("obj", "Hello");
-		return "AllProgrammer.html";
+	@PostMapping(value="/findById")
+	public String findById(@RequestParam int pId,Model m){
+		//view or read data one from database
+		Programmer p = pr.getOne(pId);
+		m.addAttribute("p",p);
+		return "programmerInfo.html";
 	}
+	
+	@GetMapping(value="/deleteById")
+	public String deleteById(@RequestParam int pId, Model m) {
+		//delete by id
+		pr.deleteById(pId);
+		return "redirect:/index";
+	}
+	@PostMapping(value="/updateProgrammer")
+	public String updateProgrammer(@ModelAttribute("p") Programmer programmer) {
+		Programmer p = pr.getOne(programmer.getpId());
+		p.setpName(programmer.pName);
+		p.setpLang(programmer.getpLang());
+		pr.save(p);
+		
+		return "programmerInfo.html";
+	}
+	
 }

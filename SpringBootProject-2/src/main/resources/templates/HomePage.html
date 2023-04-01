@@ -5,8 +5,8 @@
 		
 	</head>
 	<body>
-		<h1 th:text="${msg}"}></h1>
-		<h1>Programmer's Data</h1>
+		
+		<h1>Insert Programmer's Data</h1>
 		<form action="addProgrammer" method="post">
 			
 			<h3>Enter Prorammer Name</h3>
@@ -15,6 +15,38 @@
 			<input type="text" name="pLang" >
 			<button type="submit">Add Programmer</button>
 		</form>
+		<hr>
+		
+		<h1>View/Read Programmer Data</h1>
+		<form action="findById" method="post">
+			
+			<h3>Enter Prorammer Id</h3>
+			<input type="text" name="pId" >
+			<button type="submit">Find Programmer</button>
+		</form>
+		
+		<hr>
+		
+		<h1>Delete Programmer Data</h1>
+		<form action="deleteById" method="get">
+			
+			<h3>Enter Prorammer Name</h3>
+			<input type="text" name="pId" >
+			<button type="submit">Delete Programmer</button>
+		</form>
+		
+		<hr>
+		<h1>Update Programmer's Data</h1>
+		<form action="updateProgrammer" method="post">
+			<h3>Enter Prorammer Id</h3>
+			<input type="text" name="pId" >
+			<h3>Enter Prorammer Name</h3>
+			<input type="text" name="pName" >
+			<h3>Enter Prorammer </h3>Language
+			<input type="text" name="pLang" >
+			<button type="submit">Update Programmer</button>
+		</form>
+			
 			
 		
 	</body>
