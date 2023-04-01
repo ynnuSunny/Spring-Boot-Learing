@@ -4,6 +4,7 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
@@ -25,7 +26,7 @@ public class MainController {
     	return "HomePage.html";
     }
 	
-	@RequestMapping("addProgrammer")
+	@RequestMapping(value="addProgrammer",method=RequestMethod.POST)
     public String programmer(@ModelAttribute("p") Programmer programmer) {
        // System.out.println(+pId+" "+pName+" "+pLang);
 	    
