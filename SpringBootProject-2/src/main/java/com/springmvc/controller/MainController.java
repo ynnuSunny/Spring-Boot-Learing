@@ -1,7 +1,10 @@
 package com.springmvc.controller;
 
+import java.util.*;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -22,7 +25,7 @@ public class MainController {
 	}
 	
 	
-	@RequestMapping("index")
+	@GetMapping("index")
     public String homePage() {
     	return "HomePage.html";
     }
@@ -36,4 +39,16 @@ public class MainController {
 		
 		
     }
+	
+	@GetMapping("/allProgrammer")
+	public String allProgramer(Model model) {
+		List<Programmer> list = new ArrayList<Programmer>();
+		
+		list.add(new Programmer(80,"Foyez","C++"));
+		list.add(new Programmer(84,"Sunny","Java"));
+		list.add(new Programmer(63,"Xami","C"));
+		model.addAttribute("programmer", list);
+		model.addAttribute("obj", "Hello");
+		return "AllProgrammer.html";
+	}
 }

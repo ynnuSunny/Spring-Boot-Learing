@@ -2,9 +2,9 @@ package com.springmvc.model;
 
 public class Programmer {
 	
-	private int pId;
-	private String pName;
-	private String pLang;
+	public int pId;
+	public String pName;
+	public String pLang;
 	
 	
 	
