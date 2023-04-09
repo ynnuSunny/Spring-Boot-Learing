@@ -1,6 +1,6 @@
 package com.ynnuSunny.SpringGame.game;
 
-public class PacmanGame {
+public class PacmanGame implements Game {
 	public void up() {
 		System.out.println("Move up Pacman");
 	}

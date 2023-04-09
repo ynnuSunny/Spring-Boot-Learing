@@ -1,6 +1,6 @@
 package com.ynnuSunny.SpringGame.game;
 
-public class MarioGame {
+public class MarioGame implements Game {
      
 	public void up() {
 		System.out.println("Move up Mario");
