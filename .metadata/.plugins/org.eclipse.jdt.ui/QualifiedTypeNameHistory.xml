@@ -54,4 +54,8 @@
     <fullyQualifiedTypeName name="jakarta.persistence.GenerationType"/>
     <fullyQualifiedTypeName name="java.io.Serializable"/>
     <fullyQualifiedTypeName name="jakarta.persistence.Embeddable"/>
+    <fullyQualifiedTypeName name="javax.swing.plaf.basic.BasicBorders.MarginBorder"/>
+    <fullyQualifiedTypeName name="com.ynnuSunny.SpringGame.game.MarioGame"/>
+    <fullyQualifiedTypeName name="com.ynnuSunny.SpringGame.game.PacmanGame"/>
+    <fullyQualifiedTypeName name="com.ynnuSunny.SpringGame.game.Game"/>
 </qualifiedTypeNameHistroy>

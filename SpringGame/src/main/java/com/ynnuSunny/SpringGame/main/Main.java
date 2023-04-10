@@ -11,9 +11,11 @@ public class Main {
     	 
     	 //PacmanGame game = new PacmanGame();
     	 
-    	 Game game = new MarioGame();
+    	 Game game = new MarioGame(); //1: Object Creation
     	 
     	 GameRunner run = new GameRunner(game);
+    	 //2: Object Creation + Wiring of Dependencies
+    	 //Game is a Dependency of GameRunner
     	 
     	 run.move();
     	 
