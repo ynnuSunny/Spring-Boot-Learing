@@ -2481,3 +2481,49 @@ org.eclipse.core.runtime.CoreException: Launch configuration Main (2) references
 2023-04-11 13:42:51,849 [Worker-42: Launching SpringContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-04-11 13:42:51,867 [Worker-42: Launching SpringContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-04-11 13:42:51,871 [Worker-42: Launching SpringContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-12 22:10:40,637 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-12 22:12:37,576 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 22:12:37,609 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 22:12:37,615 [Worker-12: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-12 22:47:36,675 [Worker-1: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 22:47:36,691 [Worker-1: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 22:47:36,699 [Worker-1: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-12 22:47:56,067 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 22:47:56,083 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 22:47:56,089 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-12 22:48:10,730 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 22:48:10,746 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 22:48:10,752 [Worker-1: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-12 22:49:09,305 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 22:49:09,315 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 22:49:09,319 [Worker-13: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-12 22:49:39,730 [Worker-1: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 22:49:39,755 [Worker-1: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 22:49:39,762 [Worker-1: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-12 22:50:25,806 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 22:50:25,818 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 22:50:25,822 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-12 22:51:20,620 [Worker-17: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 22:51:20,640 [Worker-17: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 22:51:20,648 [Worker-17: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-12 22:51:43,145 [Worker-15: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 22:51:43,175 [Worker-15: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 22:51:43,188 [Worker-15: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-12 22:52:25,813 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 22:52:25,823 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 22:52:25,827 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-12 23:34:24,590 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 23:34:24,602 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 23:34:24,605 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-12 23:34:44,428 [Worker-21: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 23:34:44,441 [Worker-21: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 23:34:44,445 [Worker-21: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-12 23:34:58,151 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 23:34:58,161 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 23:34:58,164 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-12 23:35:34,112 [Worker-22: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 23:35:34,123 [Worker-22: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 23:35:34,128 [Worker-22: Launching LezyVsEager] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-12 23:37:21,593 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-12 23:37:21,601 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-12 23:37:21,603 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
