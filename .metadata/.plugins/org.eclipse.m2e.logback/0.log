@@ -2402,3 +2402,82 @@ org.eclipse.core.runtime.CoreException: Launch configuration Main (2) references
 2023-04-10 23:31:32,559 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-04-10 23:31:32,575 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-04-10 23:31:32,578 [Worker-74: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 09:49:02,346 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-04-11 10:16:10,465 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 10:16:10,496 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 10:16:10,501 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 10:22:17,584 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 10:22:17,633 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 10:22:17,640 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 10:57:07,990 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 10:57:08,001 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 10:57:08,006 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 10:58:25,739 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 10:58:25,829 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 10:58:25,832 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 11:00:05,319 [Worker-18: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 11:00:05,358 [Worker-18: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 11:00:05,364 [Worker-18: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 11:04:36,105 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 11:04:36,114 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 11:04:36,118 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 11:05:25,540 [Worker-31: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 11:05:25,553 [Worker-31: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 11:05:25,556 [Worker-31: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 11:06:27,383 [Worker-23: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 11:06:27,406 [Worker-23: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 11:06:27,413 [Worker-23: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 11:06:52,800 [Worker-27: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 11:06:52,810 [Worker-27: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 11:06:52,813 [Worker-27: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 11:08:32,211 [Worker-27: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 11:08:32,231 [Worker-27: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 11:08:32,237 [Worker-27: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 11:15:07,432 [Worker-30: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 11:15:07,452 [Worker-30: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 11:15:07,456 [Worker-30: Launching DipedencyInjectionLauncherApp] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 11:19:11,820 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 11:19:11,829 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 11:19:11,834 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 13:26:19,364 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 13:26:19,474 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 13:26:19,481 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 13:27:10,469 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 13:27:10,494 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 13:27:10,498 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 13:27:18,473 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 13:27:18,485 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 13:27:18,489 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 13:27:48,698 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 13:27:48,711 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 13:27:48,715 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 13:28:09,507 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 13:28:09,519 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 13:28:09,522 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 13:28:36,755 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 13:28:36,766 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 13:28:36,771 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 13:32:05,764 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 13:32:05,773 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 13:32:05,775 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 13:33:17,834 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 13:33:17,841 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 13:33:17,843 [Worker-41: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 13:37:23,497 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 13:37:23,505 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 13:37:23,509 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 13:37:43,470 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 13:37:43,478 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 13:37:43,480 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 13:38:07,458 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 13:38:07,466 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 13:38:07,469 [Worker-48: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 13:38:30,154 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 13:38:30,163 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 13:38:30,168 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 13:39:41,694 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 13:39:41,703 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 13:39:41,706 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
+2023-04-11 13:42:51,849 [Worker-42: Launching SpringContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-04-11 13:42:51,867 [Worker-42: Launching SpringContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-04-11 13:42:51,871 [Worker-42: Launching SpringContext] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\Spring_Workplace\learn-spring-framework-02\src\test\resources
