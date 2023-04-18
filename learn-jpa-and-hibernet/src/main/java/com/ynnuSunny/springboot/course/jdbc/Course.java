@@ -33,6 +33,11 @@ public class Course {
 		this.author = author;
 	}
 	
+	@Override
+	public String toString() {
+		// TODO Auto-generated method stub
+		return "Course [id="+id+", name="+name+", author ="+author+" ]";
+	}
 	
     
 }
