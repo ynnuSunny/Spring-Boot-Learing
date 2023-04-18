@@ -70,6 +70,8 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="D:\Spring_Workplace\lean-jpa-and-hibernet"/>
+			<item value="C:\Users\USER\Downloads\lean-jpa-and-hibernet(1)\lean-jpa-and-hibernet"/>
 			<item value="D:\Spring_Workplace\SpringGame"/>
 		</list>
 		<list key="projectNameTemplate">
