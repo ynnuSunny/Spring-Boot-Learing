@@ -6,12 +6,16 @@ import org.springframework.stereotype.Component;
 
 import com.ynnuSunny.springboot.leanjpaandhibernet.course.Course;
 import com.ynnuSunny.springboot.leanjpaandhibernet.jdbc.JdbcRepository;
+import com.ynnuSunny.springboot.leanjpaandhibernet.jpa.JpaRepository;
 
 @Component
 public class CourseCommandLineRunner implements CommandLineRunner{
     
+//	@Autowired
+//	private JdbcRepository repository;
+	
 	@Autowired
-	private JdbcRepository repository;
+	private JpaRepository repository;
 	
 	
 	@Override
